@@ -3,7 +3,7 @@
 Here, we have implemented different CNN models for the detection of different types of skin cancers. The dataset consists of 9 classes of different skin cancers along with 1 normal class.
 
 ## Contributors:
-1. Barsha Chaetri
+1. Barsha Chetri
 2. Jyoti Singh
 3. Rajlakshmi Gogoi
 4. Sukonya Phukan
